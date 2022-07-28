@@ -94,6 +94,18 @@ return [
          */
 
         'team_foreign_key' => 'team_id',
+
+        /*
+         * Change this if you want to use the team member sms satus
+        */
+
+        'user_sms_status' => 'sms_status',
+
+        /*
+         * Change this if you want to use the team member email satus
+        */
+
+        'user_email_status' => 'email_status',
     ],
 
     /*
